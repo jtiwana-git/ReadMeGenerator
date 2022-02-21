@@ -17,36 +17,48 @@ function renderLicenseBadge(license) {}
   
   # **${data.title}**
     
-    ##TABLE OF CONTENT
-    [link ##-Descripton] (link ##-Descripton)
+  ## TABLE OF CONTENT
+  
+  ## [Description](Description)
 
-    ## Description
-    ${data.description}
+  ## [Installation](Installation)
+   
+  ## [Usage](Usage)
+   
+  ## [Test](Test)
+   
+  ## [License](License)
+      
+  ## [Questions](Questions)
+
+
+  ## Description
+  ${data.description}
     
-    ### Installation
+  ### Installation
     ${data.installation}
     
-    ### Usage
-    ${data.usage}
+  ### Usage
+  ${data.usage}
     
-    ### Contribution
-    ${data.contribution}
+  ### Contribution
+  ${data.contribution}
     
-    ### Test
-    ${data.test}
+  ### Test
+  ${data.test}
     
-    ### License
-    ${data.license}
-    
-    ### Questions
-    If you have any questions about the projectm the please feel free to contact me 
+  ### License
+  ${data.license}
+  
+  ### Questions
+  If you have any questions about the projectm the please feel free to contact me 
 
-    GitHub User: [github](https://github.com/${data.github})
-    email: [email](mailto:${data.email})
-          2 [mailto:${data.email}]
-          3 mailto:${data.email}
-    [email](mailto:${data.email}) 4
-    5 <${data.email}>
+  GitHub User: [github](https://github.com/${data.github})
+  email: [email](mailto:${data.email})
+  [mailto:${data.email}]
+  mailto:${data.email}
+  [email](mailto:${data.email}) 4
+  <${data.email}>
 
     
   `
