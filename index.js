@@ -41,7 +41,7 @@ const questions = [
 }, 
 { 
     type: "list",
-    name: "license",
+    name: "License",
     message: "Select license key or select NO KEY?",
     choices: ["None", "MIT", "GNU", "Apache"],
 
