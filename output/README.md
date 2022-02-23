@@ -1,49 +1,60 @@
 
   
-  # **1**
+  # **Good Read Me GENERATOR**
+
+  <img src=https://img.shields.io/badge/license-MIT-red.svg>
+
+  ### Description
+  hfwjkrear
     
   ## TABLE OF CONTENT
-  
-  ## [Description](Description)
 
-  ## [Installation](Installation)
+  * [Installation](#installation)
    
-  ## [Usage](Usage)
+  * [Usage](#usage)
    
-  ## [Test](Test)
+  * [Test](#test)
+  
+  * [License](#license)
    
-  ## [License](License)
+  * [Questions](#questions)
+
+
+ 
+
+
+    
+  ## Installation
+  orieghio;'e
+    
+  ## Usage
+  huib;teirhgbui
+    
+  ## Contribution
+  bhtgrfio;j
+    
+  ## Test
+  jtghrfio'tj
+ 
+  ## License
       
-  ## [Questions](Questions)
-
-
-  ## Description
-  2
-    
-  ### Installation
-    3
-    
-  ### Usage
-  4
-    
-  ### Contribution
-  5
-    
-  ### Test
-  6
-    
-  ### License
-  undefined
+      
+      This project is licensed under MIT 
+      
+      
   
-  ### Questions
+  ## Questions
   If you have any questions about the projectm the please feel free to contact me 
 
-  GitHub User: [github](https://github.com/jtiwana-git)
-  email: [email](mailto:jtiwana@hotmail.com)
-  [mailto:jtiwana@hotmail.com]
-  mailto:jtiwana@hotmail.com
-  [email](mailto:jtiwana@hotmail.com) 4
-  <jtiwana@hotmail.com>
+  Email: jtiwana@hotmail.com
+ <br>
+  GitHub User: [https://github.com/jtiwana-git](https://github.com/jtiwana-git)
 
-    
+  
+### This program is developed by Jagdeep Tiwana
+
+ GitHub: [https://github.com/jtiwana-git](https://github.com/jtiwana-git)
+<br>
+ Email: [jtiwana@hotmail.com](mailto:jtiwana@hotmail.com)
+  
   

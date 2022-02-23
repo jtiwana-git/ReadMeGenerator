@@ -39,13 +39,13 @@ const questions = [
     name: "test",
     message:"How did you test your project?",
 }, 
-// { 
-//     name: "license",
-//     message: "Select license key or select NO KEY?",
-//     type: "choices",
-//     choices: ("None", "MIT", "GNU AGPLv3", "Apache License 2.0"),
+{ 
+    type: "list",
+    name: "license",
+    message: "Select license key or select NO KEY?",
+    choices: ["None", "MIT", "GNU", "Apache"],
 
-// },
+},
 {
     type: "input",
     name: "github",
