@@ -1,8 +1,12 @@
+# ReadMeGenerator - README
 
-  
-  # **Good Read me Generator**
+## VIDEO LINK - https://drive.google.com/file/d/1ZVsz7-0_tlXT1NZDwWTJpg0kjPRyIs-9/view?usp=sharing
+## GIT HUB REPO - https://github.com/jtiwana-git/ReadMeGenerator
 
-  <img src=https://img.shields.io/badge/License-MIT-red.svg>
+
+ GitHub User: [jtiwana-git](https://github.com/jtiwana-git)
+ <br>
+ <jtiwana@hotmail.com>
 
   ### Description
   Generates questions about the user new project and then their answers will create a markdown file
@@ -49,12 +53,3 @@
   Email: jtiwana@hotmail.com
  <br>
   GitHub User: [https://github.com/jtiwana-git](https://github.com/jtiwana-git)
-
-  
-### This program is developed by Jagdeep Tiwana
-
- GitHub: [https://github.com/jtiwana-git](https://github.com/jtiwana-git)
-<br>
- Email: [jtiwana@hotmail.com](mailto:jtiwana@hotmail.com)
-  
-  
